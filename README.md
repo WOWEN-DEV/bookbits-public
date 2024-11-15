@@ -20,7 +20,7 @@
 
 # Table of Contents
 - [About WOWEN](#about-wowen)
-- [About Book Bits](#about-bookbits)
+- [About Book Bits](#about-book-bits)
   - [Features](#features)
 - [Contributing](#contributing)
 - [Feedback and Support](#feedback-and-support)
