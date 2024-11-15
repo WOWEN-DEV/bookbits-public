@@ -1,5 +1,7 @@
 ![Book Bits Logo](https://github.com/WOWEN-DEV/bookbits-demo/blob/415177d844c2364022ad6ee6391ca7960a5c10d6/bookbits-logo.svg)
 
+<br>
+
 <p align="center">
   <img src="https://api.netlify.com/api/v1/badges/14c79cc4-5ab8-4441-bee3-4ec76985daeb/deploy-status" alt="Netlify Status">
   <img src="https://img.shields.io/badge/WOWEN-FemTech%20Dev%20Community-blueviolet" alt="WOWEN">
