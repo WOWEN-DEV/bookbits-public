@@ -23,7 +23,6 @@
 - [About Book Bits](#about-book-bits)
   - [Features](#features)
 - [Contributing](#contributing)
-- [Feedback and Support](#feedback-and-support)
 - [Connect with WOWEN](#connect-with-wowen)
 - [License](#license)
 
@@ -43,22 +42,12 @@ Book Bits automates ebooks in EPUB format to audiobooks using AI technology. Wit
 - Accessibility Across Languages: Enhance accessibility by breaking language barriers, making content available to diverse audiences.
 - Effortless User Experience: Enjoy a smooth and intuitive process for converting and accessing audiobooks.
 
-Note: The [Book Bits](https://bookbits.wowen.tech/) demo showcase a tiny bit of the full software and functionality. For demo purposes, the professional audiobook voice model has a 550-character limit for user testing – for longer testing we utilizes a cheap, basic, and robotic voice to illustrate functionality.
-
-Book Bits is built by [Emma Hager (@uchusei)](https://github.com/uchusei), founder of [WOWEN](https://wowen.tech/).
-
 <br>
 
 # Contributing
 
 Currently, development is in a private repo. However, if you have any questions, are interested in using the software, or would like to contribute to the project, please reach out to Emma Hager.
-If you'd like to contribute to our other projects, please follow our [Contributing Guidelines](https://github.com/WOWEN-DEV/wowen.tech/blob/1ae3df4da0e1ae73c7340f8de7b98d542c5b1b30/CONTRIBUTING.md).
-
-<br>
-
-# Feedback and Support
-
-Have feedback or need support? Feel free to reach out!
+If you'd like to contribute to our other projects, please follow our [Contributing Guidelines](https://github.com/WOWEN-DEV/wowen/blob/main/CONTRIBUTING.md).
 
 <br>
 
