@@ -15,7 +15,7 @@
 <br>
 <br>
 <div align="center">
-  <img src="https://www.wowen.tech/assets/img/hands.svg" alt="WOWEN Illustration">
+  <img src="https://github.com/WOWEN-DEV/wowen/blob/main/wowen-hands.svg" alt="WOWEN Illustration">
 </div>
 
 # Table of Contents
@@ -68,8 +68,8 @@ This project is proprietary and copyrighted. All rights reserved. You may not us
 <br>
 
 <p align="center">
-  <img src="https://github.com/WOWEN-DEV/wowen.tech/blob/main/assets/img/wowen-tech-repo-logo.svg" alt="WOWEN Logo" width="30%">
+  <img src="https://github.com/WOWEN-DEV/wowen/blob/main/wowen-repo-logo.svg" alt="WOWEN Logo" width="30%">
 </p>
 
-<p align="center">Thank you for your interest in WOWEN. Together, we're making FemTech innovative, creative, and powering 🕷️🕸️</p>
+<p align="center">Weaving the web 🕷️🕸️</p>
 <p align="center">Copyright © 2019-2024, WOWEN. All rights reserved.</p>
