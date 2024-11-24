@@ -1,3 +1,5 @@
+<br>
+
 ![Book Bits Logo](https://github.com/WOWEN-DEV/bookbits-demo/blob/415177d844c2364022ad6ee6391ca7960a5c10d6/bookbits-logo.svg)
 
 <br>
@@ -6,16 +8,23 @@
   <img src="https://api.netlify.com/api/v1/badges/14c79cc4-5ab8-4441-bee3-4ec76985daeb/deploy-status" alt="Netlify Status">
 </p>
 
+<br>
+
 <h1 align="center">Book Bits - Instant Audiobook for Every Book, in Every Language</h1>
+
 <h3 align="center"><i>Turn Your Books into Bit-Sized Professional Audio</i></h3>
 
-<p align="center">Welcome to Book Bits demo repository. We're thrilled to have you here! 🕷️🕸️</p>
+<br>
+
+<p align="center">Welcome to Book Bits public repository. We're thrilled to have you here! 🕷️🕸️</p>
 
 <br>
 <br>
 <div align="center">
   <img src="https://github.com/WOWEN-DEV/wowen/blob/main/wowen-hands.svg" alt="WOWEN Illustration">
 </div>
+
+<br>
 
 # Table of Contents
 - [About WOWEN](#about-wowen)
