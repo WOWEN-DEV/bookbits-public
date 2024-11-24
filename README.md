@@ -1,6 +1,6 @@
 <br>
 
-![Book Bits Logo](https://github.com/WOWEN-DEV/bookbits-demo/blob/415177d844c2364022ad6ee6391ca7960a5c10d6/bookbits-logo.svg)
+![Book Bits Logo](https://github.com/WOWEN-DEV/bookbits-public/blob/main/bookbits-logo.svg)
 
 <br>
 
