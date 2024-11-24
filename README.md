@@ -63,14 +63,12 @@ Book Bits automates ebooks in EPUB format to audiobooks using AI technology. Wit
 <br>
 
 # Contributing
-
 Currently, development is in a private repo. However, if you have any questions, are interested in using the software, or would like to contribute to the project, please reach out to Emma Hager.
 If you'd like to contribute to our other projects, please follow our [Contributing Guidelines](https://github.com/WOWEN-DEV/wowen/blob/main/CONTRIBUTING.md).
 
 <br>
 
 # Connect with WOWEN
-
 - **Website:** [wowen.tech](https://wowen.tech)
 - **Email:** emma@wowen.tech
 
