@@ -28,6 +28,7 @@
 
 # Table of Contents
 - [About WOWEN](#about-wowen)
+  - [What we do](#what-we-do)
 - [About Book Bits](#about-book-bits)
   - [Features](#features)
 - [Contributing](#contributing)
